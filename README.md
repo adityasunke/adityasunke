@@ -50,7 +50,7 @@ Quantum-AI framework for simulating Metal-Organic Frameworks (MOFs) with Carbon 
 ### 🌟 [DNAVault](https://github.com/Sankalp-dasari/DNAVault)
 A post-quantum security protocol for encrypting DNA sequences. Implemented AES-128 to encrypt DNA sequences and Kyber-512 for secure quantum resilient key exchange. Offers robust security against classical and quantum security attacks. Implemented the security protocol without using existing cryptography libraries.
 - **Tech Stack:** Python, NumPy, HashLib
-- **Features:** 250,000x faster key generation than classical encryption methods like RSA and approximatey $10^19$ times more secure than traditional asymmetric encryption techniques.
+- **Features:** 250,000x faster key generation than classical encryption methods like RSA and approximatey 10<sup>19</sup> times more secure than traditional asymmetric encryption techniques.
 - [Portfolio Website](https://dna-vault.vercel.app/) | [Repository](https://github.com/Sankalp-dasari/DNAVault)
 
 ## 🌐 Connect with Me
