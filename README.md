@@ -8,6 +8,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasunke&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+## Education
+
+**Virginia Tech** | *Expected Graduation: May 2027*
+- B.S. Computer Science | Minor: Quantum Information Science and Engineering
+- GPA: 3.8/4.0 | Dean's List: Fall 2023, Spring 2024, Fall 2024
+- Relevant Coursework: Quantum Software, Quantum World, Linear Algebra, Applied Combinatorics, Graph Theory, Software Design and Data Structures, Computer Organization, Data Structures and Algorithms, Physics, Chemistry
+
 ## About
 
 I'm a student at Virginia Tech majoring in Computer Science and minoring in Quantum Information Science and Engineering. I am passionate about implementing quantum technologies to solve real-world problems. I am an undergraduate researcher studeying the applications of multivariate goppa codes in post-quantum cryptography. I am leading the quantum subteam of CarbonQapture - a quantum/AI team aimed to tackle carbon emissions at Virginia Tech. I also work as a Calculus tutor for the Department of Mathematics at my university.
@@ -19,7 +26,7 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
