@@ -62,10 +62,6 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=0ea5e9&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Statistics" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasunke&theme=github-dark-blue&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=0ea5e9&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Statistics" />
 </div>
 
