@@ -26,7 +26,7 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
@@ -59,10 +59,6 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasunke&theme=github-dark-blue&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=0ea5e9&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Statistics" />
 </div>
 
 ## Current Research & Projects
