@@ -8,16 +8,51 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasunke&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## Education
+## 🎓 Education
 
-**Virginia Tech** | *Expected Graduation: May 2027*
-- B.S. Computer Science | Minor: Quantum Information Science and Engineering
-- GPA: 3.8/4.0 | Dean's List: Fall 2023, Spring 2024, Fall 2024
-- Relevant Coursework: Quantum Software, Quantum World, Linear Algebra, Applied Combinatorics, Graph Theory, Software Design and Data Structures, Computer Organization, Data Structures and Algorithms, Physics, Chemistry
+<div align="center">
+  <img src="https://img.shields.io/badge/Virginia_Tech-861F41?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMSA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDMgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
+</div>
+
+<div align="center">
+
+### 🏛️ Virginia Tech | *Expected Graduation: May 2027*
+
+**🖥️ Bachelor of Science in Computer Science**  
+**⚛️ Minor: Quantum Information Science and Engineering**
+
+</div>
+
+<div align="center">
+
+| 📊 **Academic Excellence** | 🏆 **Honors** |
+|:---:|:---:|
+| **GPA: 3.8/4.0** | **Dean's List** |
+| 📈 Consistent Performance | Fall 2023, Spring 2024, Fall 2024 |
+
+</div>
+
+<div align="center">
+
+### 📚 Coursework Highlights
+
+</div>
+
+<div align="center">
+
+| **⚛️ Quantum & Physics** | **💻 Computer Science** | **🧮 Mathematics** |
+|:---:|:---:|:---:|
+| Quantum Software | Software Design & Data Structures | Linear Algebra |
+| Quantum World | Computer Organization | Applied Combinatorics |
+| Physics | Data Structures & Algorithms | Graph Theory |
+| Chemistry | Intro to Software Design | Calculus |
+| | Intro to Problem Solving in CS | |
+
+</div>
 
 ## About
 
-I'm a student at Virginia Tech majoring in Computer Science and minoring in Quantum Information Science and Engineering. I am passionate about implementing quantum technologies to solve real-world problems. I am an undergraduate researcher studeying the applications of multivariate goppa codes in post-quantum cryptography. I am leading the quantum subteam of CarbonQapture - a quantum/AI team aimed to tackle carbon emissions at Virginia Tech. I also work as a Calculus tutor for the Department of Mathematics at my university.
+I'm a student at Virginia Tech majoring in Computer Science and minoring in Quantum Information Science and Engineering. I am passionate about implementing quantum technologies to solve real-world problems. I am an undergraduate researcher studying the applications of multivariate goppa codes in post-quantum cryptography. I am leading the quantum subteam of CarbonQapture - a quantum/AI team aimed to tackle carbon emissions at Virginia Tech. I also work as a Calculus tutor for the Department of Mathematics at my university.
 
 ## Technical Skills
 
@@ -61,27 +96,95 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
 
 </div>
 
-## Current Research & Projects
+## GitHub Statistics
 
-**Post-Quantum Cryptography Research** *(March 2025 – Present)*
-- Conducting research on post-quantum cryptographic schemes as part of a $247,000 NSF-funded project, focusing on enhancing encryption security against quantum threats
-- Implementing Multivariate Goppa Codes in the McEliece Cryptosystem using SageMath to increase resistance to quantum attacks by strengthening code structure
-- Analyzing algebraic coding theory and evaluating advanced cryptographic algorithms to support quantum-resilient encryption strategies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasunke&show_icons=true&theme=dark&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunke&layout=compact&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&hide_border=true" />
+</div>
 
-**McEliece Cryptosystem Implementation** *(December 2024 – March 2025)*
-- Implemented the McEliece cryptosystem and developed algebraic decoders for Goppa codes using SageMath to simulate encryption and decryption protocols in post-quantum settings
-- Applied Patterson's algorithm to decode Goppa-encrypted messages, achieving successful message recovery and validating algorithm reliability for post-quantum systems
+## 💼 Work Experience
 
-**CarbonQapture** *(April 2025)*
- **Best Hack Promoting Public Health by Bloomberg - Bitcamp 2025**
-- Built a quantum-AI framework using PennyLane to simulate and design Metal-Organic Frameworks for CO₂ capture, achieving 98.3% accuracy in ground-state energy prediction
-- Parsed 324,000+ MOF structures and screened 8,000+ candidates for carbon capture using Hamiltonian-based Variational Quantum Eigensolver simulations
-- Trained a neural network to develop 10 novel MOFs and revalidated them via quantum simulation
-- Accelerated simulation convergence and generalized across 15+ MOF topologies with minimal tuning
+<div align="center">
 
-**DNAVault** *(June 2025)*
-- Developed a secure DNA data encryption system integrating custom AES-128 block cipher and Kyber-512 post-quantum key encapsulation, achieving 128-bit quantum-safe security
-- Enabled quantum-resilient encryption with an estimated 10¹⁹× greater quantum resistance compared to standalone AES-128, ensuring end-to-end protection for sensitive genetic datasets
+### 🔬 Research Assistant | *Virginia Tech* | March 2025 – Present
+**🏛️ NSF-Funded Post-Quantum Cryptography Research ($247,000)**
+
+</div>
+
+- 🔐 Conducting research on post-quantum cryptographic schemes, focusing on enhancing encryption security against quantum threats
+- ⚡ Implementing **Multivariate Goppa Codes** in the McEliece Cryptosystem using SageMath to increase resistance to quantum attacks
+- 📊 Analyzing algebraic coding theory and evaluating advanced cryptographic algorithms to support quantum-resilient encryption strategies
+
+<div align="center">
+
+### 🎓 Undergraduate Student Researcher | *Virginia Tech* | December 2024 – March 2025
+**🔑 McEliece Cryptosystem Implementation**
+
+</div>
+
+- 💻 Implemented the McEliece cryptosystem and developed algebraic decoders for Goppa codes using SageMath
+- 🧮 Applied **Patterson's algorithm** to decode Goppa-encrypted messages, achieving successful message recovery
+- ✅ Validated algorithm reliability for post-quantum systems through comprehensive testing
+
+<div align="center">
+
+### 📚 Calculus Tutor | *Virginia Tech Math Tutoring Lab* | August 2024 – Present
+**👥 200+ Students Tutored**
+
+</div>
+
+- 🎯 Tutored 200+ students in Calculus I & II, breaking down complex problems into structured steps
+- 📈 Improved student comprehension and test performance through personalized teaching approaches
+- 🤝 Collaborated with 40+ peer tutors to deliver comprehensive math support across multiple courses
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌍 CarbonQapture | *April 2025*
+**🏆 Best Hack Promoting Public Health by Bloomberg - Bitcamp 2025**
+*Python • PennyLane • NumPy • Pandas • Git • GitHub*
+
+</div>
+
+- ⚛️ Built a **quantum-AI framework** using PennyLane to simulate and design Metal-Organic Frameworks for CO₂ capture
+- 🎯 Achieved **98.3% accuracy** in ground-state energy prediction using Hamiltonian-based Variational Quantum Eigensolver
+- 📊 Parsed **324,000+ MOF structures** and screened 8,000+ candidates for carbon capture optimization
+- 🧠 Trained a neural network to develop **10 novel MOFs** and revalidated them via quantum simulation
+- ⚡ Accelerated simulation convergence and generalized across **15+ MOF topologies** with minimal tuning
+
+<div align="center">
+
+### 🧬 DNAVault | *June 2025*
+**🔒 Quantum-Safe DNA Data Encryption System**
+*Python • NumPy • GitHub*
+
+</div>
+
+- 🛡️ Developed a secure DNA data encryption system integrating custom **AES-128 block cipher** and **Kyber-512** post-quantum key encapsulation
+- 🔐 Achieved **128-bit quantum-safe security** with an estimated **10¹⁹× greater quantum resistance** compared to standalone AES-128
+- 🧬 Ensured end-to-end protection for sensitive genetic datasets with quantum-resilient encryption protocols
+
+## Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/adityasunke/carbonqapture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasunke&repo=carbonqapture&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+  </a>
+  <a href="https://github.com/sankalp-dasari/DNAVault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=dnavault&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
+  </a>
+</div>
+
+## What I'm Currently Exploring
+
+- Advanced quantum error correction techniques and their implementation in NISQ devices
+- Applications of variational quantum algorithms in computational chemistry and materials science
+- Integration of quantum machine learning with classical deep learning architectures
+- Development of hybrid quantum-classical algorithms for optimization problems
 
 ## Connect
 
