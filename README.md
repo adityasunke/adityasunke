@@ -25,10 +25,9 @@
 
 <div align="center">
 
-| 📊 **Academic Excellence** | 🏆 **Honors** |
+| **GPA** | **Dean's List** |
 |:---:|:---:|
-| **GPA: 3.8/4.0** | **Dean's List** |
-| 📈 Consistent Performance | Fall 2023, Spring 2024, Fall 2024 |
+| **3.77/4.0** | Fall 2023, Spring 2024, Fall 2024, Spring 2025 |
 
 </div>
 
