@@ -170,9 +170,6 @@ I'm a student at Virginia Tech majoring in Computer Science and minoring in Quan
 ## Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/adityasunke/carbonqapture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasunke&repo=carbonqapture&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
-  </a>
   <a href="https://github.com/sankalp-dasari/DNAVault">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp-dasari&repo=dnavault&theme=dark&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&hide_border=true" />
   </a>
