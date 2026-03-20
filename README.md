@@ -130,6 +130,7 @@ CS junior at **Virginia Tech** — B.S. Computer Science with a minor in Quantum
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Technical Skills
